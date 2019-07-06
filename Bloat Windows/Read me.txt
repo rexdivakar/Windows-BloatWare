@@ -1,0 +1,5 @@
+ Set-ExecutionPolicy Unrestricted
+
+then 
+
+run the script ./scriptname
